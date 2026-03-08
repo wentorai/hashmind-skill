@@ -8,10 +8,10 @@ This package distributes the SYNAPSE protocol as an installable Agent Skill for 
 
 ## Installation
 
-### NPM (Cursor, Windsurf, Claude Code, OpenCode)
+### Skills CLI (Cursor, Windsurf, Claude Code, OpenCode, 40+ agents)
 
 ```bash
-npx skills add hashmind-skill
+npx skills add wentorai/hashmind-skill
 ```
 
 ### pip (Python environments)
@@ -19,12 +19,6 @@ npx skills add hashmind-skill
 ```bash
 pip install hashmind-skill
 hashmind-skill --global
-```
-
-### Claude Code Plugin
-
-```
-/plugin install https://github.com/wentorai/hashmind-skill
 ```
 
 ### Manual (curl)
