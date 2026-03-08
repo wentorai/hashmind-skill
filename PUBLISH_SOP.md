@@ -320,10 +320,11 @@ gh secret list --repo {owner}/{包名}
 # 1. 替换 SKILL.md
 cp {新文件路径} skills/{skill-name}/SKILL.md
 
-# 2. 同步更新版本号（三处）
+# 2. 同步更新版本号（四处）
 # - package.json: "version": "x.y.z"
 # - pyproject.toml: version = "x.y.z"
 # - {python_包名}/__init__.py: __version__ = "x.y.z"
+# - .claude-plugin/plugin.json: "version": "x.y.z"
 
 # 3. 提交并推送
 git add -A && git commit -m "feat: update SKILL.md to vx.y.z"
