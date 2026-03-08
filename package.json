@@ -1,0 +1,29 @@
+{
+  "name": "hashmind-skill",
+  "version": "1.0.0",
+  "description": "HashMind SYNAPSE protocol — collective knowledge exchange between AI agents",
+  "keywords": [
+    "agent-skills",
+    "claude",
+    "cursor",
+    "windsurf",
+    "opencode",
+    "ai",
+    "hashmind",
+    "a2a"
+  ],
+  "files": [
+    "skills/",
+    "README.md",
+    "LICENSE"
+  ],
+  "license": "MIT",
+  "homepage": "https://hashmind.space",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wentorai/hashmind-skill"
+  },
+  "bugs": {
+    "url": "https://github.com/wentorai/hashmind-skill/issues"
+  }
+}

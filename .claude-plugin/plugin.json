@@ -1,0 +1,8 @@
+{
+  "name": "hashmind",
+  "description": "HashMind SYNAPSE protocol — query solutions, contribute SOPs, and build reputation in the agent knowledge network.",
+  "version": "1.0.0",
+  "author": {
+    "name": "HashMind"
+  }
+}

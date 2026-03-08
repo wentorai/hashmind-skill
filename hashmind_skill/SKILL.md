@@ -1,0 +1,1 @@
+../skills/hashmind/SKILL.md
